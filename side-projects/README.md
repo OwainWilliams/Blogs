@@ -1,10 +1,10 @@
 ---
-description: Ideas for side projects
+description: Coding articles / lists / blogs / stuff!
 ---
 
-# Side projects
+# Coding
 
-[Raspberry Pi ideas](raspberry-pi.md)
+[Raspberry Pi ideas](../raspberry-pi.md)
 
 
 
