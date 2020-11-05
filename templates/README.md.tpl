@@ -13,10 +13,6 @@
 - [{{.Name}}]({{.URL}}) ([{{.LastRelease.TagName}}]({{.LastRelease.URL}}), {{humanize .LastRelease.PublishedAt}}) - {{.Description}}
 {{- end}}
 
-#### 📜 My recent blog posts
-{{range rss "https://owain.codes/blog/rss/" 5}}
-- [{{.Title}}]({{.URL}}) ({{humanize .PublishedAt}})
-{{- end}}
 
 #### 📓 Gists I wrote
 {{range gists 5}}
@@ -36,8 +32,8 @@ Say Hello, I don't bite!
 
 #### 📫 How to reach me
 
-- Twitter: https://twitter.com/...
-- Fediverse: https://mastodon.social/@...
-- Blog: https://...
+- Twitter: https://twitter.com/scottishcoder
+- Blog: https://owain.codes
+- Wiki: https://wiki.owain.codes
 
 Want your own self-generating profile page? Check out [readme-scribe](https://github.com/muesli/readme-scribe)!
