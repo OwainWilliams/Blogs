@@ -1,6 +1,6 @@
 # Table of contents
 
-* [The life of O](README.md)
+* [OwainWilliams/Blogs](README.md)
 
 ## Coding
 
