@@ -7,7 +7,7 @@
 * [Snippets](coding/snippets/README.md)
   * [Non-coding](coding/snippets/non-coding/README.md)
     * [Command Prompt / Terminal](coding/snippets/non-coding/command-prompt-terminal.md)
-  * [Untitled](coding/snippets/untitled.md)
+  * [Coding](coding/snippets/untitled.md)
 * [Umbraco](coding/umbraco/README.md)
   * [Adding content to the backoffice](coding/umbraco/adding-content-to-the-backoffice.md)
   * [Pagination](coding/umbraco/pagination.md)
