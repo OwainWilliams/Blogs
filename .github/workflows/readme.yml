@@ -43,7 +43,6 @@ jobs:
     - uses: actions/checkout@v2
       with:
         fetch-depth: 0
-    - name: Auto-generate CHANGELOG
     - uses: BobAnkh/auto-generate-changelog@v1.0.1
       with:
         REPO_NAME: 'OwainWilliams/Blogs'
