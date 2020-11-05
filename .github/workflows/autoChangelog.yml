@@ -33,11 +33,4 @@ jobs:
           echo test, and deploy your project.
 
       - name: Auto Changelog
-        # You may pin to the exact commit or the version.
-        # uses: ardalanamini/auto-changelog@6edbc48bf09f362c278bcb72a8453a1e4ba5850b
         uses: ardalanamini/auto-changelog@v1.1.0
-        with:
-          # Github token
-          token: 3966f3b2a3b65c6b222dd8c1467952216f6f629d
-          # Exclude selected commit types (comma separated)
-          exclude: tidyup
