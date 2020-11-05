@@ -11,5 +11,5 @@ Once it's done, open command prompt in Admin mode and run
 
 You can set CaseSensitiveInfo on a specific folder, which is what I needed to do. 
 
-Once it's enabled, I was about to `git clone` my repo and fix the mess. 
+Once it's enabled, I was able to `git clone` my repo and fix the mess. 
 
