@@ -12,7 +12,7 @@ description: An ASP.net developer just trying to be the best developer he can be
 
 ### Fixed
 
-* Reorganising the layout and the topics / pages with the book.
+* Reorganising the layout and the topics / pages within the book.
 
 ### Add
 
