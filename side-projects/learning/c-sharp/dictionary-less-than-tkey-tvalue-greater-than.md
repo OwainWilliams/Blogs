@@ -1,5 +1,5 @@
 ---
-description: Represents a collection of keys and values..
+description: Represents a collection of keys and values.
 ---
 
 # Dictionary&lt;Tkey, TValue&gt;
