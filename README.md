@@ -8,5 +8,21 @@ description: An ASP.net developer just trying to be the best developer he can be
 | :--- |
 
 
+## 1.0.1 - 05-11-2020
+
+### Fixed
+
+* Reorganising the layout and the topics / pages with the book.
+
+### Add
+
+* [Added information about making VSCode your git editor and diff tool](git/command-line/making-vscode-your-git-editor-and-diff-tool.md)
+
+## 1.0.0 - 04-11-2020
+
+### Created
+
+* Created the first version of this Life of O 'book'
+
 
 
