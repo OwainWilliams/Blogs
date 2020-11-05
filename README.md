@@ -18,6 +18,7 @@ description: An ASP.net developer just trying to be the best developer he can be
 
 * [Added information about making VSCode your git editor and diff tool](git/command-line/making-vscode-your-git-editor-and-diff-tool.md)
 * [Add thoughts / blogs found about version numbers](blogs-1/future-ideas.md) \(since this page now has version numbers!\)
+* [How to add content programatically to Umbraco](coding/umbraco/adding-content-to-the-backoffice.md)
 
 ## 1.0.0 - 04-11-2020
 
