@@ -1,6 +1,6 @@
 # Table of contents
 
-* [OwainWilliams/Blogs](README.md)
+* [Welcome](README.md)
 
 ## Coding
 
