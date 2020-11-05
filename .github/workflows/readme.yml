@@ -37,16 +37,7 @@ jobs:
         with:
             fetch-depth: 0
 
-  generate-changelog:
-    runs-on: ubuntu-latest
-    steps:
-    - uses: actions/checkout@v2
-      with:
-        fetch-depth: 0
-    - uses: BobAnkh/auto-generate-changelog@v1.0.1
-      with:
-        REPO_NAME: 'OwainWilliams/Blogs'
-        ACCESS_TOKEN: ${{secrets.GITBOOK_TOKEN}}
-        PATH: '/CHANGELOG.md'
-        COMMIT_MESSAGE: 'docs(CHANGELOG): update release notes'
-        TYPE: 'feat:Feature,fix:Bug Fixes,docs:Documentation,refactor:Refactor,perf:Performance Improvements'
+      - name: Conventional Changelog Action
+        uses: TriPSs/conventional-changelog-action@v3
+          with:
+            github-token: ${{ secrets.GITBOOK_TOKEN }}
