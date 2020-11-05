@@ -1,7 +1,6 @@
 # Table of contents
 
 * [The life of O](README.md)
-* [Changelog](changelog.md)
 
 ## Coding
 
