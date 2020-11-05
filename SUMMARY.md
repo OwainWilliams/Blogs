@@ -31,7 +31,3 @@
 
 * [Ideas for Projects](raspberry-pi-1/ideas-for-projects.md)
 
----
-
-* [Untitled](untitled.md)
-
