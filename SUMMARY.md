@@ -4,6 +4,8 @@
 
 ## Coding
 
+* [Snippets](coding/snippets/README.md)
+  * [Non-coding](coding/snippets/non-coding.md)
 * [Umbraco](coding/umbraco/README.md)
   * [Adding content to the backoffice](coding/umbraco/adding-content-to-the-backoffice.md)
   * [Pagination](coding/umbraco/pagination.md)
