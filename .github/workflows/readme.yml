@@ -32,3 +32,14 @@ jobs:
           commit_user_name: readme-scribe 🤖
           commit_user_email: actions@github.com
           commit_author: readme-scribe 🤖 <actions@github.com>
+    
+      - uses: actions/checkout@v2
+        with:
+            fetch-depth: 0
+      - uses: BobAnkh/auto-generate-changelog@master
+        with:
+          REPO_NAME: 'OwainWilliams/Blogs'
+          ACCESS_TOKEN: ${{secrets.GITBOOK_TOKEN}}
+          PATH: '/CHANGELOG.md'
+          COMMIT_MESSAGE: 'docs(CHANGELOG): update release notes'
+          TYPE: 'feat:Feature,fix:Bug Fixes,docs:Documentation,refactor:Refactor,perf:'
