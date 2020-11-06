@@ -18,6 +18,9 @@
 
 ## Git
 
+* [Git Actions](git/git-actions/README.md)
+  * [Build your own Git Action](git/git-actions/build-your-own-git-action.md)
+  * [Create a readme file automatically](git/git-actions/create-a-readme-file-automatically.md)
 * [Command line](git/command-line/README.md)
   * [Allow for case-insensitivity in Windows](git/command-line/allow-for-case-insensitivity-in-windows.md)
   * [Making VSCode your Git editor and diff tool](git/command-line/making-vscode-your-git-editor-and-diff-tool.md)
