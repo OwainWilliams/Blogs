@@ -41,4 +41,4 @@ jobs:
         with:
             github-token: ${{ secrets.GITBOOK_TOKEN }}
             output-file: 'changelog.md'
-            git-message: 'chore(release): {version}'
+            git-message: 'GitBook: {version}'
