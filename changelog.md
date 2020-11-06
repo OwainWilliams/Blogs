@@ -1,8 +1,5 @@
 # Change Log
 
-
-
-```text
 {% changelog %}
     {% date %}
     {% message %}
@@ -12,5 +9,5 @@
         {% changes truncate=true %}
     {% endfiles %}
 {% endchangelog %} 
-```
+
 
