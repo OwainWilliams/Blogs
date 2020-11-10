@@ -10,6 +10,7 @@
     * [Command Prompt / Terminal](coding/snippets/non-coding/command-prompt-terminal.md)
   * [Coding](coding/snippets/untitled.md)
 * [Umbraco](coding/umbraco/README.md)
+  * [Models Builder Settings](coding/umbraco/models-builder-settings.md)
   * [Adding content to the backoffice](coding/umbraco/adding-content-to-the-backoffice.md)
   * [Pagination](coding/umbraco/pagination.md)
   * [Creating YYYY/MM folders](coding/umbraco/creating-yyyy-mm-folders.md)
