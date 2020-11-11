@@ -37,5 +37,6 @@
 
 ## Raspberry Pi <a id="raspberry-pi-1"></a>
 
-* [Ideas for Projects](raspberry-pi-1/ideas-for-projects.md)
+* [Ideas for Projects](raspberry-pi-1/ideas-for-projects/README.md)
+  * [Project 365](raspberry-pi-1/ideas-for-projects/project-365.md)
 
