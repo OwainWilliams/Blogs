@@ -6,7 +6,8 @@ description: Adding content programatically to the back office
 
 Full blog : [https://owain.codes/blog/posts/2020/october/add-content-programmatically-to-umbraco-8/](https://owain.codes/blog/posts/2020/october/add-content-programmatically-to-umbraco-8/)
 
-  
+### Adding content with random Page titles.
+
 Place this code on to a view of the parent node in the backoffice. 
 
 Root   
@@ -52,6 +53,8 @@ This example makes a mix of BlogArticles and NewsArticles under the parent node.
         contentService.SaveAndPublish(node);
     }​​​​​​​​
 ```
+
+### Adding random postcodes to the content
 
 Another example - this time adding random postcodes in to the content. 
 
