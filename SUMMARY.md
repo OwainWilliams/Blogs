@@ -16,6 +16,7 @@
   * [Pagination](coding/umbraco/pagination.md)
   * [Creating YYYY/MM folders](coding/umbraco/creating-yyyy-mm-folders.md)
 * [C Sharp](coding/c-sharp/README.md)
+  * [Dependency Injection](coding/c-sharp/dependency-injection.md)
   * [Dictionary&lt;Tkey, TValue&gt;](coding/c-sharp/dictionary-less-than-tkey-tvalue-greater-than.md)
 
 ## Git
