@@ -16,6 +16,11 @@ Root
 This example makes a mix of BlogArticles and NewsArticles under the parent node. 
 
 ```text
+@using Umbraco.Core.Composing;
+@using System;
+```
+
+```text
   
 //Used to mass create content in the backoffice.
     var contentService = Current.Services.ContentService;
