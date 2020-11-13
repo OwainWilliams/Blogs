@@ -1,3 +1,4 @@
 {
-    "plugins": ["changelog"]
+    "plugins": ["recently-updated"]
+    
 }

@@ -1,3 +1,6 @@
 {
-  "version": "0.3.0"
+  "version": "0.3.0",
+  "dependencies": {
+    "gitbook-plugin-recently-updated": "github:jwarby/gitbook-plugin-recently-updated"
+  }
 }
