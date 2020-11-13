@@ -1,7 +1,6 @@
 # Table of contents
 
 * [Welcome](README.md)
-* [Change Log](changelog.md)
 
 ## Coding
 
