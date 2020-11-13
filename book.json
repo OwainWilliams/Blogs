@@ -1,4 +1,4 @@
 {
-    "plugins": ["recently-updated"]
+    "plugins": ["changelog"]
     
 }
