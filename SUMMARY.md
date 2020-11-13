@@ -20,8 +20,6 @@
 
 ## Git
 
-* [Gitbook](git/gitbook/README.md)
-  * [Auto generate changelog](git/gitbook/auto-generate-changelog.md)
 * [Git Actions](git/git-actions/README.md)
   * [Build your own Git Action](git/git-actions/build-your-own-git-action.md)
   * [Create a readme file automatically](git/git-actions/create-a-readme-file-automatically.md)
