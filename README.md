@@ -5,6 +5,7 @@
 
 #### 🌱 My latest projects
 
+- [OwainWilliams/Wiki](https://github.com/OwainWilliams/Wiki) - 
 - [OwainWilliams/PackageWorkshop](https://github.com/OwainWilliams/PackageWorkshop) - Demo package from the Umbraco Package workshop
 - [OwainWilliams/Snippets](https://github.com/OwainWilliams/Snippets) - Snippets of Code that are useful
 - [OwainWilliams/multipleDatePicker](https://github.com/OwainWilliams/multipleDatePicker) - Just a test to learn how to make an Umbraco Package.
@@ -12,7 +13,6 @@
 - [OwainWilliams/CoreAPI](https://github.com/OwainWilliams/CoreAPI) - Building a .Net Core API
 - [OwainWilliams/StravaBlogger](https://github.com/OwainWilliams/StravaBlogger) - Use the Strava API to do mini blogs
 - [OwainWilliams/BlogMarkdownParser](https://github.com/OwainWilliams/BlogMarkdownParser) - 
-- [OwainWilliams/owainwilliams.github.io](https://github.com/OwainWilliams/owainwilliams.github.io) - 
 - [OwainWilliams/bluise](https://github.com/OwainWilliams/bluise) - 
 - [OwainWilliams/Blogs](https://github.com/OwainWilliams/Blogs) - This will be a public repo of blog ideas, partly started blogs and other things that I do plan to publish on owain.codes
 
