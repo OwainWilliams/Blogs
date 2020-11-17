@@ -26,7 +26,7 @@
 
 - [](https://gist.github.com/69bbbac5d647c0859bd8301d4e661748) (2 months ago)
 - [A collection of README badges](https://gist.github.com/b55a61db0867b660ae3c5995feab11ff) (4 months ago)
-- [Is this safe?](https://gist.github.com/77e42779ff21af04da069e370d6a56f9) (5 months ago)
+- [Is this safe?](https://gist.github.com/77e42779ff21af04da069e370d6a56f9) (6 months ago)
 - [Remove older content versions from the Umbraco database (tested on v7.9.2)](https://gist.github.com/1f41818f3eddd09b22138c321a69c91c) (9 months ago)
 - [[C#] SQL Query to Databable to CSV](https://gist.github.com/6eced57ab10654db91fb96076e461136) (1 year ago)
 
