@@ -1,4 +1,4 @@
-# Explaining GroupOr / GroupAnd methods
+# Explaining GroupedOr / GroupedAnd methods
 
 A great explanation from Callum.
 
