@@ -9,6 +9,8 @@
     * [Command Prompt / Terminal](coding/snippets/non-coding/command-prompt-terminal.md)
   * [Coding](coding/snippets/untitled.md)
 * [Umbraco](coding/umbraco/README.md)
+  * [Examine](coding/umbraco/examine/README.md)
+    * [Explaining GroupOr / GroupAnd methods](coding/umbraco/examine/explaining-groupor-groupand-methods.md)
   * [Rosyln error](coding/umbraco/rosyln-error.md)
   * [Models Builder Settings](coding/umbraco/models-builder-settings.md)
   * [Adding content to the backoffice](coding/umbraco/adding-content-to-the-backoffice.md)
