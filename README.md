@@ -18,13 +18,13 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [dotnet/AspNetCore.Docs](https://github.com/dotnet/AspNetCore.Docs) ([220491](https://github.com/dotnet/AspNetCore.Docs/releases/tag/220491), 3 weeks ago) - Documentation for ASP.NET Core
+- [dotnet/AspNetCore.Docs](https://github.com/dotnet/AspNetCore.Docs) ([220491](https://github.com/dotnet/AspNetCore.Docs/releases/tag/220491), 4 weeks ago) - Documentation for ASP.NET Core
 - [KevinJump/Our.Umbraco.SilentUpgrade](https://github.com/KevinJump/Our.Umbraco.SilentUpgrade) ([release/8.1.0](https://github.com/KevinJump/Our.Umbraco.SilentUpgrade/releases/tag/release%2F8.1.0), 3 months ago) - Silent Upgrades for Umbraco v8
 
 
 #### 📓 Gists I wrote
 
-- [](https://gist.github.com/69bbbac5d647c0859bd8301d4e661748) (2 months ago)
+- [](https://gist.github.com/69bbbac5d647c0859bd8301d4e661748) (3 months ago)
 - [A collection of README badges](https://gist.github.com/b55a61db0867b660ae3c5995feab11ff) (4 months ago)
 - [Is this safe?](https://gist.github.com/77e42779ff21af04da069e370d6a56f9) (6 months ago)
 - [Remove older content versions from the Umbraco database (tested on v7.9.2)](https://gist.github.com/1f41818f3eddd09b22138c321a69c91c) (9 months ago)
