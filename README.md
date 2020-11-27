@@ -7,6 +7,7 @@
 
 - [OwainWilliams/Wiki](https://github.com/OwainWilliams/Wiki) - 
 - [OwainWilliams/PackageWorkshop](https://github.com/OwainWilliams/PackageWorkshop) - Demo package from the Umbraco Package workshop
+- [OwainWilliams/Snippets](https://github.com/OwainWilliams/Snippets) - Snippets of Code that are useful
 - [OwainWilliams/multipleDatePicker](https://github.com/OwainWilliams/multipleDatePicker) - Just a test to learn how to make an Umbraco Package.
 - [OwainWilliams/StravaRestApi](https://github.com/OwainWilliams/StravaRestApi) - 
 - [OwainWilliams/CoreAPI](https://github.com/OwainWilliams/CoreAPI) - Building a .Net Core API
@@ -14,7 +15,6 @@
 - [OwainWilliams/BlogMarkdownParser](https://github.com/OwainWilliams/BlogMarkdownParser) - 
 - [OwainWilliams/bluise](https://github.com/OwainWilliams/bluise) - 
 - [OwainWilliams/Blogs](https://github.com/OwainWilliams/Blogs) - This will be a public repo of blog ideas, partly started blogs and other things that I do plan to publish on owain.codes
-- [OwainWilliams/UmbracoPDF](https://github.com/OwainWilliams/UmbracoPDF) - A blog about creating PDFs with Umbraco and Rotativa
 
 #### 🔭 Latest releases I've contributed to
 
