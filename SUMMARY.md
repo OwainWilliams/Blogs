@@ -10,6 +10,7 @@
   * [Coding](coding/snippets/untitled/README.md)
     * [Get current logged in user from Controller](coding/snippets/untitled/get-current-logged-in-user-from-controller.md)
 * [Umbraco](coding/umbraco/README.md)
+  * [Getting bounced away from /umbraco](coding/umbraco/getting-bounced-away-from-umbraco.md)
   * [Examine](coding/umbraco/examine/README.md)
     * [Explaining GroupedOr / GroupedAnd methods](coding/umbraco/examine/explaining-groupor-groupand-methods.md)
   * [Rosyln error](coding/umbraco/rosyln-error.md)
