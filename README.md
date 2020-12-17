@@ -5,6 +5,7 @@
 
 #### 🌱 My latest projects
 
+- [OwainWilliams/dotnetEdinburgh](https://github.com/OwainWilliams/dotnetEdinburgh) - A public repo for the dotnet Edinburgh meetup
 - [OwainWilliams/MatchGame-BlazorVersion](https://github.com/OwainWilliams/MatchGame-BlazorVersion) - 
 - [OwainWilliams/MatchGame](https://github.com/OwainWilliams/MatchGame) - 
 - [OwainWilliams/Wiki](https://github.com/OwainWilliams/Wiki) - 
@@ -14,7 +15,6 @@
 - [OwainWilliams/StravaRestApi](https://github.com/OwainWilliams/StravaRestApi) - 
 - [OwainWilliams/CoreAPI](https://github.com/OwainWilliams/CoreAPI) - Building a .Net Core API
 - [OwainWilliams/StravaBlogger](https://github.com/OwainWilliams/StravaBlogger) - Use the Strava API to do mini blogs
-- [OwainWilliams/BlogMarkdownParser](https://github.com/OwainWilliams/BlogMarkdownParser) - 
 
 #### 🔭 Latest releases I've contributed to
 
