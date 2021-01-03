@@ -5,6 +5,7 @@
 
 #### 🌱 My latest projects
 
+- [OwainWilliams/OwainCodes2](https://github.com/OwainWilliams/OwainCodes2) - 
 - [OwainWilliams/HeadFirstCSharp](https://github.com/OwainWilliams/HeadFirstCSharp) - Projects created while reading the Head First C# book
 - [OwainWilliams/dotnetEdinburgh](https://github.com/OwainWilliams/dotnetEdinburgh) - A public repo for the dotnet Edinburgh meetup
 - [OwainWilliams/MatchGame-BlazorVersion](https://github.com/OwainWilliams/MatchGame-BlazorVersion) - 
@@ -14,7 +15,6 @@
 - [OwainWilliams/Snippets](https://github.com/OwainWilliams/Snippets) - Snippets of Code that are useful
 - [OwainWilliams/multipleDatePicker](https://github.com/OwainWilliams/multipleDatePicker) - Just a test to learn how to make an Umbraco Package.
 - [OwainWilliams/StravaRestApi](https://github.com/OwainWilliams/StravaRestApi) - 
-- [OwainWilliams/CoreAPI](https://github.com/OwainWilliams/CoreAPI) - Building a .Net Core API
 
 #### 🔭 Latest releases I've contributed to
 
