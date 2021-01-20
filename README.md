@@ -34,11 +34,11 @@
 
 #### 👯 Check out some of my recent followers
 
+- [louisjrdev](https://github.com/louisjrdev)
 - [WilliamThomson1905](https://github.com/WilliamThomson1905)
 - [greystate](https://github.com/greystate)
 - [webdivauk](https://github.com/webdivauk)
 - [sianwevz](https://github.com/sianwevz)
-- [krishna15873](https://github.com/krishna15873)
 
 #### 💬 Feedback
 
