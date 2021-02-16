@@ -8,6 +8,7 @@
   * [Non-coding](coding/snippets/non-coding/README.md)
     * [Command Prompt / Terminal](coding/snippets/non-coding/command-prompt-terminal.md)
   * [Coding](coding/snippets/untitled/README.md)
+    * [Build up SQL statements](coding/snippets/untitled/build-up-sql-statements.md)
     * [Get current logged in user from Controller](coding/snippets/untitled/get-current-logged-in-user-from-controller.md)
 * [Umbraco](coding/umbraco/README.md)
   * [Getting bounced away from /umbraco](coding/umbraco/getting-bounced-away-from-umbraco.md)
