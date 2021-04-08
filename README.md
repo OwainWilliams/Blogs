@@ -34,11 +34,11 @@
 
 #### 👯 Check out some of my recent followers
 
+- [RachBreeze](https://github.com/RachBreeze)
 - [busrasengul](https://github.com/busrasengul)
 - [GogoDeveloper](https://github.com/GogoDeveloper)
 - [louisjrdev](https://github.com/louisjrdev)
 - [WilliamThomson1905](https://github.com/WilliamThomson1905)
-- [greystate](https://github.com/greystate)
 
 #### 💬 Feedback
 
