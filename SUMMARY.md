@@ -49,3 +49,7 @@
 * [Ideas for Projects](raspberry-pi-1/ideas-for-projects/README.md)
   * [Project 365](raspberry-pi-1/ideas-for-projects/project-365.md)
 
+## Package Manager
+
+* [Useful commands](package-manager/useful-commands.md)
+
