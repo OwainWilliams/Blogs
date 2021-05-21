@@ -11,6 +11,7 @@
     * [Build up SQL statements](coding/snippets/untitled/build-up-sql-statements.md)
     * [Get current logged in user from Controller](coding/snippets/untitled/get-current-logged-in-user-from-controller.md)
 * [Umbraco](coding/umbraco/README.md)
+  * [Working with IPublishedContent](coding/umbraco/working-with-ipublishedcontent.md)
   * [Strongly Type](coding/umbraco/strongly-type.md)
   * [Setting up a custom form](coding/umbraco/setting-up-a-custom-form.md)
   * [Getting bounced away from /umbraco](coding/umbraco/getting-bounced-away-from-umbraco.md)
