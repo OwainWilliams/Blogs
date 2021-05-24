@@ -5,6 +5,7 @@
 
 #### 🌱 My latest projects
 
+- [OwainWilliams/OwainCodesBlogSeries](https://github.com/OwainWilliams/OwainCodesBlogSeries) - A repo for all my shared code for a .Net Core blog series
 - [OwainWilliams/DevDiary](https://github.com/OwainWilliams/DevDiary) - 
 - [OwainWilliams/OwainCodes2](https://github.com/OwainWilliams/OwainCodes2) - 
 - [OwainWilliams/HeadFirstCSharp](https://github.com/OwainWilliams/HeadFirstCSharp) - Projects created while reading the Head First C# book
@@ -14,7 +15,6 @@
 - [OwainWilliams/Wiki](https://github.com/OwainWilliams/Wiki) - 
 - [OwainWilliams/PackageWorkshop](https://github.com/OwainWilliams/PackageWorkshop) - Demo package from the Umbraco Package workshop
 - [OwainWilliams/Snippets](https://github.com/OwainWilliams/Snippets) - Snippets of Code that are useful
-- [OwainWilliams/multipleDatePicker](https://github.com/OwainWilliams/multipleDatePicker) - Just a test to learn how to make an Umbraco Package.
 
 #### 🔭 Latest releases I've contributed to
 
