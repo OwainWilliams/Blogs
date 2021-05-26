@@ -18,7 +18,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [dotnet/AspNetCore.Docs](https://github.com/dotnet/AspNetCore.Docs) ([220491](https://github.com/dotnet/AspNetCore.Docs/releases/tag/220491), 6 months ago) - Documentation for ASP.NET Core
+- [dotnet/AspNetCore.Docs](https://github.com/dotnet/AspNetCore.Docs) ([220491](https://github.com/dotnet/AspNetCore.Docs/releases/tag/220491), 7 months ago) - Documentation for ASP.NET Core
 
 
 #### 📓 Gists I wrote
