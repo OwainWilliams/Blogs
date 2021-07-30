@@ -22,7 +22,7 @@
 
 #### 📓 Gists I wrote
 
-- [Windows Terminal Settings](https://gist.github.com/35c216f6fd5e7dd2f7ae772c714fe229) (7 months ago)
+- [Windows Terminal Settings](https://gist.github.com/35c216f6fd5e7dd2f7ae772c714fe229) (8 months ago)
 - [](https://gist.github.com/69bbbac5d647c0859bd8301d4e661748) (11 months ago)
 - [A collection of README badges](https://gist.github.com/b55a61db0867b660ae3c5995feab11ff) (1 year ago)
 - [Is this safe?](https://gist.github.com/77e42779ff21af04da069e370d6a56f9) (1 year ago)
