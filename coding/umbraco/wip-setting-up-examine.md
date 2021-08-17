@@ -2,7 +2,7 @@
 
 ## Getting Setup with ExamineY
 
-* [ ] Setup a view with a basic form
+* Setup a view with a basic form
 
 ```text
  @using (Html.BeginUmbracoForm("Search", "Search", Project.Core.Constants.Site, FormMethod.Get))
@@ -22,7 +22,8 @@
                                 }
 ```
 
-* [ ] Create a Controller with a suitable action method name
+* Create a Controller with a suitable action method name
+* Remember to create a Composer to register your Services!!
 
 
 
