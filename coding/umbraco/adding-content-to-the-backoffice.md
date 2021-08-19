@@ -91,5 +91,44 @@ Another example - this time adding random postcodes in to the content.
         contentService.SaveAndPublish(node);
 ```
 
+Add content of a specific content type
+
+```text
+  for (var i = 0; i < 2; i++)
+    {
+
+
+        var children = contentService.GetPagedChildren(parentNodeToCopy, 0, 904, out var totalRecords);
+        foreach (var child in children)
+        {
+
+            String[] titleHeading = new string[]
+            {
+               "rainstorm","preach","weary","gun","plain","zany","helpful","long","various","development","foamy","melted","narrow","freezing","reduce","burly","price","curl","bell",
+                "distribution","glow","turkey","meddle","men","boundless","scratch","excuse","mature","post","file","unsuitable","writer","eatable","magical","mere","tray","bump","spotted",
+            "volcano","squash","hushed","maddening","smooth","edge","tongue","scorch","gainful","please","decide","porter","jaded","ski","yoke","hospital","mask","barbarous","bubble","business",
+            "normal","ashamed","underwear","superb","bore","tedious","beginner","pigs","disagree","earth","verse","perpetual","scattered","rhetorical","workable","cuddly","furry","seemly","puzzled","load",
+            "sloppy","ludicrous","queen","ethereal","religion","psychotic","nifty","puzzling","truthful","connection","vulgar","lumpy","bake","bike","mixed","clover","flag","deafening","soak","flaky","statement","lucky"
+                                     };
+            if (child.ContentType.Alias == "flexibleTextPage")
+            {
+                Random rnd = new Random();
+                var copiedChild = contentService.Copy(child, parentNodeToCopy, false);
+
+                copiedChild.Name = "WIGGING with " + titleHeading[rnd.Next(titleHeading.Length)];
+
+                if (copiedChild.HasProperty("title"))
+                {
+                    copiedChild.SetValue("title", copiedChild.Name);
+                }
+
+                contentService.SaveAndPublish(copiedChild);
+            }
+
+        }
+    }
+
+```
+
 
 
