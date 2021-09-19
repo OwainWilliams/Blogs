@@ -5,6 +5,7 @@
 
 #### 🌱 My latest projects
 
+- [OwainWilliams/OwainCodes.Core](https://github.com/OwainWilliams/OwainCodes.Core) - 
 - [OwainWilliams/OwainCodesBlogSeries](https://github.com/OwainWilliams/OwainCodesBlogSeries) - A repo for all my shared code for a .Net Core blog series
 - [OwainWilliams/DevDiary](https://github.com/OwainWilliams/DevDiary) - 
 - [OwainWilliams/OwainCodes2](https://github.com/OwainWilliams/OwainCodes2) - 
@@ -14,7 +15,6 @@
 - [OwainWilliams/MatchGame](https://github.com/OwainWilliams/MatchGame) - 
 - [OwainWilliams/Wiki](https://github.com/OwainWilliams/Wiki) - 
 - [OwainWilliams/PackageWorkshop](https://github.com/OwainWilliams/PackageWorkshop) - Demo package from the Umbraco Package workshop
-- [OwainWilliams/Snippets](https://github.com/OwainWilliams/Snippets) - Snippets of Code that are useful
 
 #### 🔭 Latest releases I've contributed to
 
