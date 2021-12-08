@@ -1,9 +1,9 @@
 # Strongly Type
 
-OLD:   
+OLD: \
 
 
-```text
+```
 case VideoItem.ModelTypeAlias:
                         if (article.HasValue("contentLabel"))
                         {
@@ -17,9 +17,9 @@ case VideoItem.ModelTypeAlias:
                         }
 ```
 
-New: 
+New:&#x20;
 
-```text
+```
 case VideoItem.ModelTypeAlias:
     docType = "Video";
     if(article is VideoItem videoItem && videoItem.ContentLabel != null)
@@ -27,4 +27,3 @@ case VideoItem.ModelTypeAlias:
        docType = videoItem.ContentLabel.Name;
     }
 ```
-

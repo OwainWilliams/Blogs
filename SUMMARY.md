@@ -26,13 +26,14 @@
   * [Adding content to the backoffice](coding/umbraco/adding-content-to-the-backoffice.md)
   * [Pagination](coding/umbraco/pagination.md)
   * [Creating YYYY/MM folders](coding/umbraco/creating-yyyy-mm-folders.md)
+* [Unable to open ConfigSource file](coding/unable-to-open-configsource-file.md)
 * [C Sharp](coding/c-sharp/README.md)
   * [Useful Links](coding/c-sharp/.net-framework-source-code.md)
   * [Regex](coding/c-sharp/regex.md)
-  * [Null check .any\(\)](coding/c-sharp/null-check-.any.md)
+  * [Null check .any()](coding/c-sharp/null-check-.any.md)
   * [internal static and internal const](coding/c-sharp/internal-static-and-internal-const.md)
   * [Dependency Injection](coding/c-sharp/dependency-injection.md)
-  * [Dictionary&lt;Tkey, TValue&gt;](coding/c-sharp/dictionary-less-than-tkey-tvalue-greater-than.md)
+  * [Dictionary\<Tkey, TValue>](coding/c-sharp/dictionary-less-than-tkey-tvalue-greater-than.md)
 
 ## Git
 
@@ -48,11 +49,11 @@
   * [Make Terminal look nice](git/command-line/make-terminal-look-nice.md)
 * [Conventional Commit](git/conventional-commit.md)
 
-## Blogs <a id="blogs-1"></a>
+## Blogs <a href="#blogs-1" id="blogs-1"></a>
 
 * [Future ideas](blogs-1/future-ideas.md)
 
-## Raspberry Pi <a id="raspberry-pi-1"></a>
+## Raspberry Pi <a href="#raspberry-pi-1" id="raspberry-pi-1"></a>
 
 * [Ideas for Projects](raspberry-pi-1/ideas-for-projects/README.md)
   * [Project 365](raspberry-pi-1/ideas-for-projects/project-365.md)
@@ -60,4 +61,3 @@
 ## Package Manager
 
 * [Useful commands](package-manager/useful-commands.md)
-
