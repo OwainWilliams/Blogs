@@ -5,7 +5,7 @@
 
 #### 🌱 My latest projects
 
-- [OwainWilliams/GitKrakenThemes](https://github.com/OwainWilliams/GitKrakenThemes) - 
+- [OwainWilliams/GitKrakenThemes](https://github.com/OwainWilliams/GitKrakenThemes) - Free themes that can be used with GitKraken
 - [OwainWilliams/OwainCodes.Core](https://github.com/OwainWilliams/OwainCodes.Core) - 
 - [OwainWilliams/OwainCodesBlogSeries](https://github.com/OwainWilliams/OwainCodesBlogSeries) - A repo for all my shared code for a .Net Core blog series
 - [OwainWilliams/DevDiary](https://github.com/OwainWilliams/DevDiary) - 
