@@ -17,7 +17,7 @@
   * [\[WIP\] Setting up Examine](coding/umbraco/wip-setting-up-examine.md)
   * [Umbraco.ModelsBuilder assembly error](coding/umbraco/umbraco.modelsbuilder-assembly-error.md)
   * [Working with IPublishedContent](coding/umbraco/working-with-ipublishedcontent.md)
-  * [Strongly Type](coding/umbraco/strongly-type.md)
+  * [How to Strongly Type to Models](coding/umbraco/strongly-type.md)
   * [Setting up a custom form](coding/umbraco/setting-up-a-custom-form.md)
   * [Getting bounced away from /umbraco](coding/umbraco/getting-bounced-away-from-umbraco.md)
   * [Examine](coding/umbraco/examine/README.md)
