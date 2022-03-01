@@ -27,6 +27,7 @@
   * [Adding content to the backoffice](coding/umbraco/adding-content-to-the-backoffice.md)
   * [Pagination](coding/umbraco/pagination.md)
   * [Creating YYYY/MM folders](coding/umbraco/creating-yyyy-mm-folders.md)
+  * [Configuration Error - CodeDom](coding/umbraco/configuration-error-codedom.md)
 * [C Sharp](coding/c-sharp/README.md)
   * [Useful Links](coding/c-sharp/.net-framework-source-code.md)
   * [Regex](coding/c-sharp/regex.md)
