@@ -32,11 +32,11 @@
 
 #### 👯 Check out some of my recent followers
 
+- [Swimburger](https://github.com/Swimburger)
 - [prjseal](https://github.com/prjseal)
 - [RachBreeze](https://github.com/RachBreeze)
 - [busrasengul](https://github.com/busrasengul)
 - [GogoDeveloper](https://github.com/GogoDeveloper)
-- [louisjrdev](https://github.com/louisjrdev)
 
 #### 💬 Feedback
 
