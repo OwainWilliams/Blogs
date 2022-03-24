@@ -12,6 +12,7 @@
     * [Build up SQL statements](coding/snippets/untitled/build-up-sql-statements.md)
     * [Get current logged in user from Controller](coding/snippets/untitled/get-current-logged-in-user-from-controller.md)
 * [Umbraco](coding/umbraco/README.md)
+  * [Fluent SQL](coding/umbraco/fluent-sql.md)
   * [Unable to open ConfigSource file](coding/umbraco/unable-to-open-configsource-file.md)
   * [Delete items from backoffice by DocType ID](coding/umbraco/delete-items-from-backoffice-by-doctype-id.md)
   * [\[WIP\] Setting up Examine](coding/umbraco/wip-setting-up-examine.md)
