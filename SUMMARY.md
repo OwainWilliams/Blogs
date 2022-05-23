@@ -4,6 +4,8 @@
 
 ## Coding
 
+* [Tips / How-to](coding/tips-how-to/README.md)
+  * [Wrapped up a site](coding/tips-how-to/wrapped-up-a-site.md)
 * [Snippets](coding/snippets/README.md)
   * [Non-coding](coding/snippets/non-coding/README.md)
     * [Command Prompt / Terminal](coding/snippets/non-coding/command-prompt-terminal.md)
