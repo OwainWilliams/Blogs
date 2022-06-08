@@ -8,7 +8,7 @@ Imagine you have a masterpage which calls a searchbar partial view. The masterpa
 
 ```
 @{
-  var siteSettings = Model.Root() as SiteRoot;
+  var siteSettings = Model as SiteRoot;
 }
   
 <partial name="master/_header" model="siteSettings" />
