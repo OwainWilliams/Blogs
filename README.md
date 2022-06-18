@@ -33,7 +33,7 @@
 #### 👯 Check out some of my recent followers
 
 - [deanleigh](https://github.com/deanleigh)
-- [karnesha](https://github.com/karnesha)
+- [trueW0101](https://github.com/trueW0101)
 - [CarlSargunar](https://github.com/CarlSargunar)
 - [mikeirvingweb](https://github.com/mikeirvingweb)
 - [niners481](https://github.com/niners481)
