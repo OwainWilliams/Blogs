@@ -32,11 +32,11 @@
 
 #### 👯 Check out some of my recent followers
 
+- [liamgold](https://github.com/liamgold)
 - [deanleigh](https://github.com/deanleigh)
 - [trueW0101](https://github.com/trueW0101)
 - [CarlSargunar](https://github.com/CarlSargunar)
 - [mikeirvingweb](https://github.com/mikeirvingweb)
-- [niners481](https://github.com/niners481)
 
 #### 💬 Feedback
 
