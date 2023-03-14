@@ -23,9 +23,12 @@ go
 ```
 
 **Add a new user to a database:** \
+
+
+```sql
+// This is the new way of creating DB users
+create user [user-login] with password = 'Password Here'
+ALTER ROLE [db_owner] ADD MEMBER [user-login]
+```
+
 \
-`- This is the new way of creating DB users`
-
-`create user [user-login] with password = 'Password Here'`
-
-`ALTER ROLE [db_owner] ADD MEMBER [user-login]`
