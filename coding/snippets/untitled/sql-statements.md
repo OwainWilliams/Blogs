@@ -15,13 +15,17 @@ go
 
 `ALTER USER [LOGIN_NAME] WITH PASSWORD = 'PASSWORD'`
 
-``
-
-``
-
 ```
 use <database_name>
 go
 ALTER USER sde WITH login = sde
 go
 ```
+
+**Add a new user to a database:** \
+\
+`- This is the new way of creating DB users`
+
+`create user [user-login] with password = 'Password Here'`
+
+`ALTER ROLE [db_owner] ADD MEMBER [user-login]`
