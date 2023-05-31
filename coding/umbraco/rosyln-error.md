@@ -10,5 +10,5 @@ Within the Package Manager Console in Visual Studio type the following - **Remem
 
 `Update-Package Microsoft.CodeDom.Providers.DotNetCompilerPlatform -r`
 
-![](../../.gitbook/assets/rosylnerror.png)
+![](../../.gitbook/assets/rosylnError.png)
 
