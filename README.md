@@ -1,10 +1,11 @@
 ---
 description: This is a brain dump of things I find helpful in the world of coding.
+cover: >-
+  https://images.unsplash.com/photo-1542831371-29b0f74f9713?crop=entropy&cs=srgb&fm=jpg&ixid=M3wxOTcwMjR8MHwxfHNlYXJjaHwyfHxjb2Rpbmd8ZW58MHx8fHwxNjg2MDM4NDU2fDA&ixlib=rb-4.0.3&q=85
+coverY: 0
 ---
 
-# Welcome
-
-
+# 👨💻 Welcome
 
 ## 📫 How to reach me
 

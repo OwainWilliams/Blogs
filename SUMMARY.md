@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Welcome](README.md)
+* [👨💻 Welcome](README.md)
 
 ## Coding
 
@@ -56,16 +56,3 @@
   * [Add, Push, Pull, Clone](git/command-line/add-push-pull-clone.md)
   * [Make Terminal look nice](git/command-line/make-terminal-look-nice.md)
 * [Conventional Commit](git/conventional-commit.md)
-
-## Blogs <a href="#blogs-1" id="blogs-1"></a>
-
-* [Future ideas](blogs-1/future-ideas.md)
-
-## Raspberry Pi <a href="#raspberry-pi-1" id="raspberry-pi-1"></a>
-
-* [Ideas for Projects](raspberry-pi-1/ideas-for-projects/README.md)
-  * [Project 365](raspberry-pi-1/ideas-for-projects/project-365.md)
-
-## Package Manager
-
-* [Useful commands](package-manager/useful-commands.md)
