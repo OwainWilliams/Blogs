@@ -15,7 +15,9 @@ coverY: 0
 
 #### 📫 Get in touch
 
-[![Twitter](https://img.shields.io/twitter/url/https/twitter.com/owaincodes.svg?style=social\&label=Follow%20%40owaincodes)](https://twitter.com/owaincodes) [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://www.linkedin.com/in/owainwilliams/) [![Blog](https://img.shields.io/badge/Owain.-Codes-green)](https://owain.codes)
+[![Twitter](https://img.shields.io/twitter/url/https/twitter.com/owaincodes.svg?style=social\&label=Follow%20%40owaincodes)](https://twitter.com/owaincodes) [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://www.linkedin.com/in/owainwilliams/) [![Blog](https://img.shields.io/badge/Owain.-Codes-green)](https://owain.codes)\
+\
+Mastodon - [https://techtoots.com/@owaincodes](https://techtoots.com/@owaincodes)
 
 #### Recently listened to
 
