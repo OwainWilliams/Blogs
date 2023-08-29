@@ -16,5 +16,5 @@ description: >-
 | 8               |              |               |
 | 9               |              |               |
 | 10              |              |               |
-| 11              |              |               |
+| 11.1            | 4.8.0          | [https://github.com/DmitryKey/luke/releases/tag/4.8.0](https://github.com/DmitryKey/luke/releases/tag/4.8.0)              |
 | 12              |              |               |
