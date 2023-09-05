@@ -1,6 +1,6 @@
 # Table of contents
 
-* [👨💻 Welcome](README.md)
+* [👨💻 👨💻 Welcome](README.md)
 
 ## Coding
 
@@ -10,6 +10,7 @@
   * [Non-coding](coding/snippets/non-coding/README.md)
     * [Command Prompt / Terminal](coding/snippets/non-coding/command-prompt-terminal.md)
   * [Coding](coding/snippets/untitled/README.md)
+    * [Node-Sass](coding/snippets/untitled/node-sass.md)
     * [SQL Statements](coding/snippets/untitled/sql-statements.md)
     * [Build up SQL statements](coding/snippets/untitled/build-up-sql-statements.md)
     * [Get current logged in user from Controller](coding/snippets/untitled/get-current-logged-in-user-from-controller.md)
