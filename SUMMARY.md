@@ -10,6 +10,7 @@
   * [Non-coding](coding/snippets/non-coding/README.md)
     * [Command Prompt / Terminal](coding/snippets/non-coding/command-prompt-terminal.md)
   * [Coding](coding/snippets/untitled/README.md)
+    * [Compile FrontEnd via NVM and Gulp](coding/snippets/untitled/compile-frontend-via-nvm-and-gulp.md)
     * [Node-Sass](coding/snippets/untitled/node-sass.md)
     * [SQL Statements](coding/snippets/untitled/sql-statements.md)
     * [Build up SQL statements](coding/snippets/untitled/build-up-sql-statements.md)
