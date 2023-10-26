@@ -46,6 +46,7 @@
   * [internal static and internal const](coding/c-sharp/internal-static-and-internal-const.md)
   * [Dependency Injection](coding/c-sharp/dependency-injection.md)
   * [Dictionary\<Tkey, TValue>](coding/c-sharp/dictionary-less-than-tkey-tvalue-greater-than.md)
+  * [Linq / Lambda](coding/c-sharp/linq-lambda.md)
 
 ## Git
 
