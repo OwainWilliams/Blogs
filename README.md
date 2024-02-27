@@ -5,7 +5,7 @@ cover: >-
 coverY: 0
 ---
 
-# 👨💻 Welcome
+# 💻 Welcome
 
 ## 📫 How to reach me
 
