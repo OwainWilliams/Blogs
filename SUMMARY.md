@@ -1,6 +1,6 @@
 # Table of contents
 
-* [👨💻 👨💻 Welcome](README.md)
+* [👨‍💻 👨💻 Welcome](README.md)
 
 ## Coding
 
@@ -16,6 +16,7 @@
     * [SQL Statements](coding/snippets/untitled/sql-statements.md)
     * [Build up SQL statements](coding/snippets/untitled/build-up-sql-statements.md)
     * [Get current logged in user from Controller](coding/snippets/untitled/get-current-logged-in-user-from-controller.md)
+    * [Alt Tag](coding/snippets/untitled/alt-tag.md)
 * [Umbraco](coding/umbraco/README.md)
   * [Luke - Version helper](coding/umbraco/luke-version-helper.md)
   * [Umbraco 10+](coding/umbraco/umbraco-10+/README.md)
