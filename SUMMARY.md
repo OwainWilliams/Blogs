@@ -18,6 +18,7 @@
     * [SQL Statements](coding/snippets/untitled/sql-statements.md)
     * [Build up SQL statements](coding/snippets/untitled/build-up-sql-statements.md)
     * [Get current logged in user from Controller](coding/snippets/untitled/get-current-logged-in-user-from-controller.md)
+    * [Dynamic BlockList Label](coding/snippets/untitled/dynamic-blocklist-label.md)
     * [Alt Tag](coding/snippets/untitled/alt-tag.md)
 * [Umbraco](coding/umbraco/README.md)
   * [Luke - Version helper](coding/umbraco/luke-version-helper.md)

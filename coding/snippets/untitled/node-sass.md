@@ -4,7 +4,7 @@ description: Create a watch on a folder
 
 # Node-Sass
 
-<img src="../../../.gitbook/assets/image (3).png" alt="" data-size="line">
+<img src="../../../.gitbook/assets/image (3) (1).png" alt="" data-size="line">
 
 
 

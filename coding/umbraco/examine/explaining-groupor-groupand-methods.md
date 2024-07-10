@@ -2,5 +2,4 @@
 
 A great explanation from Callum.
 
-![](../../../.gitbook/assets/image%20%281%29.png)
-
+![](<../../../.gitbook/assets/image (1) (1).png>)
