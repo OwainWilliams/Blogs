@@ -9,6 +9,7 @@
   * [Wrapped up a site](coding/tips-how-to/wrapped-up-a-site.md)
 * [Snippets](coding/snippets/README.md)
   * [Non-coding](coding/snippets/non-coding/README.md)
+    * [Git Markdown](coding/snippets/non-coding/git-markdown.md)
     * [Command Prompt / Terminal](coding/snippets/non-coding/command-prompt-terminal.md)
   * [👨‍💻 Coding](coding/snippets/untitled/README.md)
     * [Compile FrontEnd via NVM and Gulp](coding/snippets/untitled/compile-frontend-via-nvm-and-gulp.md)
