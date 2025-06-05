@@ -6,7 +6,7 @@ description: >-
 
 # Conventional Commit
 
-This will be useful for Git Actions and triggering automation on this convention: 
+This will be useful for Git Actions and triggering automation on this convention:&#x20;
 
 
 
@@ -14,7 +14,7 @@ The Conventional Commits specification is a lightweight convention on top of com
 
 The commit message should be structured as follows:
 
-```text
+```
 <type>[optional scope]: <description>
 
 [optional body]
@@ -22,5 +22,6 @@ The commit message should be structured as follows:
 [optional footer(s)]
 ```
 
-[https://www.conventionalcommits.org/en/v1.0.0/](https://www.conventionalcommits.org/en/v1.0.0/)
+{% embed url="https://www.conventionalcommits.org/en/v1.0.0/" %}
 
+[https://dev.to/technolaaji/writing-proper-git-commits-4g06](https://dev.to/technolaaji/writing-proper-git-commits-4g06)
