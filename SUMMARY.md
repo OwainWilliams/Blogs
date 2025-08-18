@@ -20,6 +20,7 @@
     * [Get current logged in user from Controller](coding/snippets/untitled/get-current-logged-in-user-from-controller.md)
     * [Dynamic BlockList Label](coding/snippets/untitled/dynamic-blocklist-label.md)
     * [Alt Tag](coding/snippets/untitled/alt-tag.md)
+    * [SQL - Could not import package](coding/snippets/untitled/sql-could-not-import-package.md)
 * [Umbraco](coding/umbraco/README.md)
   * [Luke - Version helper](coding/umbraco/luke-version-helper.md)
   * [Umbraco 10+](coding/umbraco/umbraco-10+/README.md)
