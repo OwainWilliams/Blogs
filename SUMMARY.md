@@ -66,4 +66,5 @@
   * [Making VSCode your Git editor and diff tool](git/command-line/making-vscode-your-git-editor-and-diff-tool.md)
   * [Add, Push, Pull, Clone](git/command-line/add-push-pull-clone.md)
   * [Make Terminal look nice](git/command-line/make-terminal-look-nice.md)
+  * [Remove folder from Git Index](git/command-line/remove-folder-from-git-index.md)
 * [Conventional Commit](git/conventional-commit.md)
