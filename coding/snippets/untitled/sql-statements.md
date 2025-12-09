@@ -22,8 +22,7 @@ ALTER USER sde WITH login = sde
 go
 ```
 
-**Add a new user to a database:** \
-
+**Add a new user to a database:** <br>
 
 ```sql
 // This is the new way of creating DB users
@@ -31,4 +30,4 @@ create user [user-login] with password = 'Password Here'
 ALTER ROLE [db_owner] ADD MEMBER [user-login]
 ```
 
-\
+<br>

@@ -1,7 +1,6 @@
-# Strongly Type
+# How to Strongly Type to Models
 
-OLD: \
-
+OLD: <br>
 
 ```
 case VideoItem.ModelTypeAlias:
