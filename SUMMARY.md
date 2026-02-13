@@ -5,6 +5,7 @@
 ## Coding
 
 * [Tips / How-to](coding/tips-how-to/README.md)
+  * [Detailed Error messages on Azure](coding/tips-how-to/detailed-error-messages-on-azure.md)
   * [Where is the hosts file on Windows?](coding/tips-how-to/where-is-the-hosts-file-on-windows.md)
   * [Wrapped up a site](coding/tips-how-to/wrapped-up-a-site.md)
 * [Snippets](coding/snippets/README.md)
