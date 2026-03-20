@@ -1,8 +1,11 @@
 name: Generate changelog
 on:
+  workflow_dispatch:
+    
   push:
     branches:
       - main
+
 
 jobs:
   generate-changelog:
