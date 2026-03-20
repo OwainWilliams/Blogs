@@ -1,17 +1,31 @@
-name: Generate changelog
+name: Generate Mascot
+ 
 on:
-  workflow_dispatch:
-    
-  push:
-    branches:
-      - main
-
-
+  release:
+    types: [published]
+ 
+permissions:
+  contents: write
+ 
 jobs:
-  generate-changelog:
+  generate-mascot:
     runs-on: ubuntu-latest
     steps:
-     - uses: OwainWilliams/OC.ReleaseMascot@main
-       with:
-         Tag: ${{ github.event.release.tag_name }}
-
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          ref: main
+          fetch-depth: 0
+ 
+      - name: Generate Release Mascot
+        uses: OwainWilliams/OC.ReleaseMascot@main
+        with:
+          Tag: ${{ github.event.release.tag_name }}
+ 
+      - name: Commit mascot
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add mascots/
+          git commit -m "chore: add mascot for ${{ github.event.release.tag_name }}"
+          git push
