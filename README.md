@@ -1,13 +1,13 @@
-<!-- MASCOT_HALL_OF_FAME -->
-### `v5.0.0-alpha001` — Blazekuen
+# 💻 Welcome
 
-![Blazekuen (v5.0.0-alpha001)](mascots/v5.0.0-alpha001.png)
+#### `v5.0.0-alpha001` — Blazekuen
 
----
-### `v4.0.1-beta002` — Flambuon
+![Blazekuen (v5.0.0-alpha001)](.gitbook/assets/v5.0.0-alpha001.png)
 
-![Flambuon (v4.0.1-beta002)](mascots/v4.0.1-beta002.png)
+***
 
----
+#### `v4.0.1-beta002` — Flambuon
 
+![Flambuon (v4.0.1-beta002)](.gitbook/assets/v4.0.1-beta002.png)
 
+***
